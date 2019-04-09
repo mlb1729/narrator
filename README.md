@@ -6,9 +6,9 @@ Facts, subject
 
   *  fact
 an assertion, logically homologous to a triple of the form
-<subject relation object> 
-  --or—
-<subject property value>
+\<subject relation object\> 
+  —or—
+\<subject property value\>
 
   *  fact-base
 a background database of ALL facts, such as a triple store
