@@ -53,7 +53,6 @@ Predicate that determines whether proposal is usable as-is, without requiring ad
 
 Note: a proposal that is NOT viable can NOT be either usable nor extensible.  A usable proposal can be either used as-is or it MAY be extended.
 
-Usage
 
 
 
