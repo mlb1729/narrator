@@ -1,5 +1,9 @@
 # narrator
 
+For background, please read the accompanying PDF file
+<br> _"Hoovers Narrative Generator Demonstration Prototype"_
+
+
 Narrator Nomenclature
 
 Facts, subject
